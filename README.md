@@ -1,13 +1,13 @@
 # End-to-End-Chest-Disease-Classification
-By [<b>Haris Majeed</b>](https://kalyanm45.github.io)
+By [<b>Haris Majeed</b>](https://haris-majeed.vercel.app)
 
 Connect with me on social media and explore my work:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/hemakalyan)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/haris-majeed-896550203)&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github)](https://github.com/Harris-Majeed)&nbsp;
-[![Medium](https://img.shields.io/badge/Medium-Follow-03a57a?style=flat-square&logo=medium)](https://medium.com/@kalyan45)&nbsp;
-![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/mhemakalyan)
-[![Sponsor Haris Majeed](https://img.shields.io/badge/Sponsor-Hema_Kalyan-28a745?style=flat-square&logo=github-sponsors)](https://github.com/sponsors/Harris-Majeed)
+[![Medium](https://img.shields.io/badge/Medium-Follow-03a57a?style=flat-square&logo=medium)](https://medium.com/@Harris-Majeed)&nbsp;
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/mharis-majeed-896550203)
+[![Sponsor Haris Majeed](https://img.shields.io/badge/Sponsor-Haris_Majeed-28a745?style=flat-square&logo=github-sponsors)](https://github.com/sponsors/Harris-Majeed)
 
 **Special Thanks to GitHub Sponsors**
 
@@ -83,14 +83,14 @@ If you prefer to use Docker, you can install and run the project using a Docker 
    - Open your terminal or command prompt.
    - Run the following command to pull the Docker image from DockerHub:
      ```
-     docker pull kalyan45/Chest-detection-app
+     docker pull harris-majeed/Chest-detection-app
      ```
      This command downloads the Docker image from the DockerHub.
 
 2. **Run the Docker Container**
    - Start the Docker container by running the following command. Adjust the port mapping as needed:
      ```
-     docker run -p 5000:5000 kalyan45/Chest-detection-app
+     docker run -p 5000:5000 harris-majeed/Chest-detection-app
      ```
      This command launches the project within a Docker container.
 
